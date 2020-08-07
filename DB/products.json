@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5ebd73c6addade5ae202f77c"},"title":"Mobile","price":{"$numberInt":"150"},"description":"Description","imageUrl":"https://www.udemy.com/staticx/udemy/images/v6/logo-coral-light.svg","userId":{"$oid":"5ebd70e5d58453581e67a891"},"__v":{"$numberInt":"0"}}
