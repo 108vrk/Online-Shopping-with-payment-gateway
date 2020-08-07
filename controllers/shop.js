@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const stripe = require('stripe')('publishable _key_ID_goes_here');  // Ex: sk_test_VPkscwqScVd9b75NDnhrDGi752P9b9MPtz
+const stripe = require('stripe')('Stripe secret Key');  // Ex: sk_test_VPkscwqScVd9b75NDnhrDGi752P9b9MPtz
 
 const PDFDocument = require('pdfkit');
 
